@@ -15,3 +15,5 @@ minimum = min(scores)
 
 print("Total:", total)
 print("Average:", average)
+print("Maximum:", maximum)
+print("Minimum:", minimum)
